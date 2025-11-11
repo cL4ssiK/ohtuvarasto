@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "ohtuvarasto"
+name = "./"
 version = "0.1.0"
 description = ""
 authors = ["Matti Luukkainen"]
